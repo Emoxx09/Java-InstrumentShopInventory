@@ -1,0 +1,5 @@
+001	String_Set	D'Addario	1	100
+003	Les_Paul	RJ	2	26000
+003	Les_Paul	RJ	38	494000
+003	Les_Paul	RJ	10	130000
+003	Les_Paul	RJ	1	13000

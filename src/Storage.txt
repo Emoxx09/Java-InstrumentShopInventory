@@ -1,0 +1,5 @@
+001	String_Set	100	13	D'Addario
+002	String_Set_Bronze	200	100	D'Addario
+003	Les_Paul	13000	11	RJ
+004	Guitar_Pick_Up	50	11	D'Addario
+005	Guitar_Neck	69	5	Fender
